@@ -1,0 +1,541 @@
+profession,market,visit_level,time_band,borrowed,low_usd_month,typical_usd_month,high_usd_month,typical_usd_year
+Software Engineering,Asia-Pacific,Light,Short,False,40.0,49.0,76.0,590.0
+Software Engineering,Canada,Light,Short,False,46.0,68.0,104.0,820.0
+Marketing,Europe,Light,Short,False,40.0,52.0,84.0,620.0
+Healthcare,United States,Light,Short,False,54.0,80.0,124.0,960.0
+Finance,Latin America,Light,Short,False,40.0,44.0,53.0,530.0
+Data & Analytics,Canada,Light,Short,False,50.0,71.0,108.0,860.0
+Operations,Asia-Pacific,Light,Short,False,40.0,44.0,68.0,530.0
+Operations,Canada,Light,Short,False,40.0,51.0,80.0,620.0
+Data & Analytics,Asia-Pacific,Light,Short,False,40.0,53.0,78.0,630.0
+Healthcare,Europe,Light,Short,False,42.0,64.0,97.0,770.0
+Other,Asia-Pacific,Light,Short,False,40.0,44.0,54.0,530.0
+Other,Canada,Light,Short,False,40.0,46.0,75.0,550.0
+Sales,Asia-Pacific,Light,Short,False,40.0,44.0,64.0,530.0
+Healthcare,United Kingdom,Light,Short,False,47.0,72.0,111.0,860.0
+Sales,Canada,Light,Short,False,40.0,52.0,79.0,630.0
+Marketing,Latin America,Light,Short,False,40.0,44.0,52.0,530.0
+Data & Analytics,Europe,Light,Short,False,47.0,68.0,102.0,820.0
+Operations,Europe,Light,Short,False,40.0,52.0,77.0,620.0
+Software Engineering,United Kingdom,Light,Short,False,52.0,77.0,120.0,930.0
+Education,Latin America,Light,Short,False,40.0,44.0,48.0,530.0
+Operations,United States,Light,Short,False,43.0,64.0,96.0,760.0
+Sales,United Kingdom,Light,Short,False,40.0,51.0,73.0,610.0
+Other,United Kingdom,Light,Short,False,40.0,50.0,75.0,600.0
+Data & Analytics,United States,Light,Short,False,59.0,87.0,132.0,1040.0
+Healthcare,Asia-Pacific,Light,Short,False,40.0,47.0,73.0,570.0
+Healthcare,Canada,Light,Short,False,47.0,64.0,105.0,760.0
+Finance,United Kingdom,Light,Short,False,43.0,68.0,110.0,810.0
+Legal,Canada,Light,Short,False,55.0,81.0,115.0,970.0
+Marketing,United States,Light,Short,False,44.0,65.0,101.0,780.0
+Legal,Asia-Pacific,Light,Short,False,40.0,57.0,97.0,690.0
+Marketing,Canada,Light,Short,False,40.0,58.0,90.0,690.0
+Legal,United States,Light,Short,False,59.0,90.0,141.0,1080.0
+Other,Latin America,Light,Short,False,40.0,44.0,52.0,530.0
+Marketing,Asia-Pacific,Light,Short,False,40.0,44.0,61.0,530.0
+Sales,Latin America,Light,Short,False,40.0,44.0,48.0,530.0
+Software Engineering,Latin America,Light,Short,False,40.0,44.0,53.0,530.0
+Legal,Europe,Light,Short,False,50.0,75.0,115.0,900.0
+Education,United Kingdom,Light,Short,False,40.0,49.0,76.0,590.0
+Operations,Latin America,Light,Short,False,40.0,44.0,49.0,530.0
+Education,Europe,Light,Short,False,40.0,44.0,70.0,530.0
+Data & Analytics,Latin America,Light,Short,False,40.0,44.0,54.0,530.0
+Finance,Asia-Pacific,Light,Short,False,40.0,46.0,72.0,550.0
+Finance,Canada,Light,Short,False,46.0,70.0,109.0,840.0
+Legal,United Kingdom,Light,Short,False,56.0,90.0,131.0,1090.0
+Software Engineering,United States,Light,Short,False,57.0,85.0,129.0,1020.0
+Sales,Europe,Light,Short,False,40.0,48.0,76.0,580.0
+Other,Europe,Light,Short,False,40.0,49.0,69.0,580.0
+Finance,Europe,Light,Short,False,45.0,68.0,102.0,810.0
+Education,Canada,Light,Short,False,40.0,49.0,74.0,590.0
+Education,Asia-Pacific,Light,Short,False,40.0,44.0,49.0,530.0
+Finance,United States,Light,Short,False,56.0,84.0,129.0,1000.0
+Marketing,United Kingdom,Light,Short,False,40.0,57.0,87.0,680.0
+Healthcare,Latin America,Light,Short,False,40.0,44.0,59.0,530.0
+Education,United States,Light,Short,False,40.0,58.0,89.0,700.0
+Other,United States,Light,Short,False,40.0,57.0,89.0,680.0
+Operations,United Kingdom,Light,Short,False,40.0,52.0,82.0,630.0
+Software Engineering,Europe,Light,Short,False,46.0,70.0,107.0,840.0
+Data & Analytics,United Kingdom,Light,Short,False,51.0,77.0,113.0,920.0
+Sales,United States,Light,Short,False,41.0,60.0,94.0,720.0
+Legal,Latin America,Light,Short,False,40.0,44.0,53.0,530.0
+Software Engineering,Asia-Pacific,Regular,Short,False,44.0,61.0,95.0,730.0
+Software Engineering,Canada,Regular,Short,False,57.0,86.0,129.0,1030.0
+Marketing,Europe,Regular,Short,False,45.0,65.0,104.0,780.0
+Healthcare,United States,Regular,Short,False,67.0,100.0,155.0,1200.0
+Finance,Latin America,Regular,Short,False,40.0,46.0,67.0,550.0
+Data & Analytics,Canada,Regular,Short,False,62.0,89.0,135.0,1070.0
+Operations,Asia-Pacific,Regular,Short,False,40.0,52.0,85.0,620.0
+Operations,Canada,Regular,Short,False,48.0,64.0,101.0,770.0
+Data & Analytics,Asia-Pacific,Regular,Short,False,46.0,66.0,98.0,790.0
+Healthcare,Europe,Regular,Short,False,53.0,81.0,121.0,970.0
+Other,Asia-Pacific,Regular,Short,False,40.0,49.0,68.0,580.0
+Other,Canada,Regular,Short,False,41.0,58.0,94.0,690.0
+Sales,Asia-Pacific,Regular,Short,False,40.0,51.0,80.0,610.0
+Healthcare,United Kingdom,Regular,Short,False,59.0,90.0,139.0,1080.0
+Sales,Canada,Regular,Short,False,48.0,66.0,99.0,790.0
+Marketing,Latin America,Regular,Short,False,40.0,47.0,65.0,560.0
+Data & Analytics,Europe,Regular,Short,False,58.0,85.0,128.0,1030.0
+Operations,Europe,Regular,Short,False,45.0,65.0,97.0,780.0
+Software Engineering,United Kingdom,Regular,Short,False,65.0,96.0,150.0,1160.0
+Education,Latin America,Regular,Short,False,40.0,44.0,55.0,530.0
+Operations,United States,Regular,Short,False,54.0,80.0,120.0,950.0
+Sales,United Kingdom,Regular,Short,False,45.0,63.0,91.0,760.0
+Other,United Kingdom,Regular,Short,False,47.0,63.0,94.0,750.0
+Data & Analytics,United States,Regular,Short,False,74.0,108.0,166.0,1300.0
+Healthcare,Asia-Pacific,Regular,Short,False,41.0,59.0,91.0,710.0
+Healthcare,Canada,Regular,Short,False,58.0,80.0,131.0,960.0
+Finance,United Kingdom,Regular,Short,False,54.0,85.0,137.0,1020.0
+Legal,Canada,Regular,Short,False,68.0,101.0,143.0,1210.0
+Marketing,United States,Regular,Short,False,55.0,82.0,126.0,980.0
+Legal,Asia-Pacific,Regular,Short,False,48.0,72.0,122.0,860.0
+Marketing,Canada,Regular,Short,False,50.0,72.0,113.0,870.0
+Legal,United States,Regular,Short,False,74.0,112.0,176.0,1350.0
+Other,Latin America,Regular,Short,False,40.0,44.0,65.0,530.0
+Marketing,Asia-Pacific,Regular,Short,False,40.0,50.0,76.0,600.0
+Sales,Latin America,Regular,Short,False,40.0,44.0,60.0,530.0
+Software Engineering,Latin America,Regular,Short,False,40.0,48.0,66.0,580.0
+Legal,Europe,Regular,Short,False,63.0,94.0,143.0,1120.0
+Education,United Kingdom,Regular,Short,False,43.0,61.0,95.0,730.0
+Operations,Latin America,Regular,Short,False,40.0,44.0,62.0,530.0
+Education,Europe,Regular,Short,False,40.0,55.0,88.0,660.0
+Data & Analytics,Latin America,Regular,Short,False,40.0,48.0,68.0,580.0
+Finance,Asia-Pacific,Regular,Short,False,41.0,57.0,90.0,690.0
+Finance,Canada,Regular,Short,False,57.0,87.0,136.0,1050.0
+Legal,United Kingdom,Regular,Short,False,70.0,113.0,163.0,1360.0
+Software Engineering,United States,Regular,Short,False,71.0,106.0,161.0,1270.0
+Sales,Europe,Regular,Short,False,43.0,60.0,95.0,720.0
+Other,Europe,Regular,Short,False,42.0,61.0,86.0,730.0
+Finance,Europe,Regular,Short,False,56.0,85.0,128.0,1010.0
+Education,Canada,Regular,Short,False,43.0,61.0,92.0,730.0
+Education,Asia-Pacific,Regular,Short,False,40.0,44.0,61.0,530.0
+Finance,United States,Regular,Short,False,70.0,104.0,161.0,1250.0
+Marketing,United Kingdom,Regular,Short,False,48.0,71.0,109.0,860.0
+Healthcare,Latin America,Regular,Short,False,40.0,50.0,74.0,590.0
+Education,United States,Regular,Short,False,49.0,73.0,111.0,870.0
+Other,United States,Regular,Short,False,49.0,71.0,112.0,860.0
+Operations,United Kingdom,Regular,Short,False,46.0,65.0,102.0,780.0
+Software Engineering,Europe,Regular,Short,False,57.0,87.0,133.0,1040.0
+Data & Analytics,United Kingdom,Regular,Short,False,63.0,96.0,141.0,1150.0
+Sales,United States,Regular,Short,False,51.0,75.0,117.0,900.0
+Legal,Latin America,Regular,Short,False,40.0,50.0,66.0,600.0
+Software Engineering,Asia-Pacific,Frequent,Short,False,62.0,86.0,134.0,1030.0
+Software Engineering,Canada,Frequent,Short,False,80.0,120.0,181.0,1440.0
+Marketing,Europe,Frequent,Short,False,63.0,90.0,146.0,1090.0
+Healthcare,United States,Frequent,Short,False,94.0,140.0,217.0,1680.0
+Finance,Latin America,Frequent,Short,False,51.0,64.0,93.0,770.0
+Data & Analytics,Canada,Frequent,Short,False,87.0,125.0,189.0,1500.0
+Operations,Asia-Pacific,Frequent,Short,False,53.0,73.0,119.0,870.0
+Operations,Canada,Frequent,Short,False,67.0,90.0,141.0,1080.0
+Data & Analytics,Asia-Pacific,Frequent,Short,False,64.0,92.0,137.0,1110.0
+Healthcare,Europe,Frequent,Short,False,74.0,113.0,169.0,1350.0
+Other,Asia-Pacific,Frequent,Short,False,52.0,68.0,95.0,820.0
+Other,Canada,Frequent,Short,False,58.0,81.0,131.0,970.0
+Sales,Asia-Pacific,Frequent,Short,False,53.0,71.0,112.0,860.0
+Healthcare,United Kingdom,Frequent,Short,False,82.0,126.0,195.0,1510.0
+Sales,Canada,Frequent,Short,False,67.0,92.0,139.0,1100.0
+Marketing,Latin America,Frequent,Short,False,49.0,65.0,91.0,790.0
+Data & Analytics,Europe,Frequent,Short,False,81.0,120.0,179.0,1440.0
+Operations,Europe,Frequent,Short,False,63.0,90.0,135.0,1090.0
+Software Engineering,United Kingdom,Frequent,Short,False,91.0,135.0,210.0,1620.0
+Education,Latin America,Frequent,Short,False,47.0,56.0,76.0,680.0
+Operations,United States,Frequent,Short,False,76.0,111.0,168.0,1340.0
+Sales,United Kingdom,Frequent,Short,False,62.0,89.0,127.0,1060.0
+Other,United Kingdom,Frequent,Short,False,65.0,88.0,132.0,1050.0
+Data & Analytics,United States,Frequent,Short,False,104.0,151.0,232.0,1820.0
+Healthcare,Asia-Pacific,Frequent,Short,False,58.0,82.0,127.0,990.0
+Healthcare,Canada,Frequent,Short,False,82.0,111.0,183.0,1340.0
+Finance,United Kingdom,Frequent,Short,False,75.0,119.0,192.0,1420.0
+Legal,Canada,Frequent,Short,False,96.0,141.0,201.0,1690.0
+Marketing,United States,Frequent,Short,False,77.0,114.0,177.0,1370.0
+Legal,Asia-Pacific,Frequent,Short,False,68.0,100.0,171.0,1200.0
+Marketing,Canada,Frequent,Short,False,71.0,101.0,158.0,1220.0
+Legal,United States,Frequent,Short,False,103.0,157.0,246.0,1890.0
+Other,Latin America,Frequent,Short,False,48.0,59.0,91.0,710.0
+Marketing,Asia-Pacific,Frequent,Short,False,54.0,69.0,106.0,830.0
+Sales,Latin America,Frequent,Short,False,50.0,61.0,85.0,730.0
+Software Engineering,Latin America,Frequent,Short,False,52.0,68.0,92.0,810.0
+Legal,Europe,Frequent,Short,False,88.0,131.0,201.0,1570.0
+Education,United Kingdom,Frequent,Short,False,61.0,86.0,133.0,1030.0
+Operations,Latin America,Frequent,Short,False,50.0,61.0,86.0,730.0
+Education,Europe,Frequent,Short,False,56.0,77.0,123.0,930.0
+Data & Analytics,Latin America,Frequent,Short,False,50.0,67.0,95.0,810.0
+Finance,Asia-Pacific,Frequent,Short,False,58.0,80.0,126.0,960.0
+Finance,Canada,Frequent,Short,False,80.0,122.0,190.0,1460.0
+Legal,United Kingdom,Frequent,Short,False,98.0,158.0,229.0,1900.0
+Software Engineering,United States,Frequent,Short,False,99.0,148.0,225.0,1780.0
+Sales,Europe,Frequent,Short,False,60.0,85.0,132.0,1010.0
+Other,Europe,Frequent,Short,False,59.0,85.0,121.0,1020.0
+Finance,Europe,Frequent,Short,False,78.0,118.0,179.0,1420.0
+Education,Canada,Frequent,Short,False,60.0,86.0,129.0,1030.0
+Education,Asia-Pacific,Frequent,Short,False,49.0,62.0,85.0,750.0
+Finance,United States,Frequent,Short,False,98.0,146.0,226.0,1750.0
+Marketing,United Kingdom,Frequent,Short,False,67.0,100.0,153.0,1200.0
+Healthcare,Latin America,Frequent,Short,False,51.0,69.0,103.0,830.0
+Education,United States,Frequent,Short,False,69.0,102.0,156.0,1220.0
+Other,United States,Frequent,Short,False,69.0,100.0,156.0,1200.0
+Operations,United Kingdom,Frequent,Short,False,64.0,91.0,143.0,1090.0
+Software Engineering,Europe,Frequent,Short,False,80.0,122.0,187.0,1460.0
+Data & Analytics,United Kingdom,Frequent,Short,False,89.0,134.0,198.0,1610.0
+Sales,United States,Frequent,Short,False,71.0,106.0,164.0,1270.0
+Legal,Latin America,Frequent,Short,False,51.0,70.0,93.0,830.0
+Software Engineering,Asia-Pacific,Light,Medium,False,40.0,54.0,85.0,650.0
+Software Engineering,Canada,Light,Medium,False,51.0,76.0,115.0,910.0
+Marketing,Europe,Light,Medium,False,40.0,57.0,93.0,690.0
+Healthcare,United States,Light,Medium,False,60.0,89.0,138.0,1070.0
+Finance,Latin America,Light,Medium,False,40.0,44.0,59.0,530.0
+Data & Analytics,Canada,Light,Medium,False,56.0,79.0,120.0,950.0
+Operations,Asia-Pacific,Light,Medium,False,40.0,46.0,75.0,550.0
+Operations,Canada,Light,Medium,False,42.0,57.0,89.0,690.0
+Data & Analytics,Asia-Pacific,Light,Medium,False,41.0,58.0,87.0,700.0
+Healthcare,Europe,Light,Medium,False,47.0,72.0,107.0,860.0
+Other,Asia-Pacific,Light,Medium,False,40.0,44.0,60.0,530.0
+Other,Canada,Light,Medium,False,40.0,51.0,83.0,610.0
+Sales,Asia-Pacific,Light,Medium,False,40.0,45.0,71.0,540.0
+Healthcare,United Kingdom,Light,Medium,False,52.0,80.0,124.0,960.0
+Sales,Canada,Light,Medium,False,42.0,58.0,88.0,700.0
+Marketing,Latin America,Light,Medium,False,40.0,44.0,58.0,530.0
+Data & Analytics,Europe,Light,Medium,False,52.0,76.0,114.0,910.0
+Operations,Europe,Light,Medium,False,40.0,57.0,86.0,690.0
+Software Engineering,United Kingdom,Light,Medium,False,58.0,86.0,133.0,1030.0
+Education,Latin America,Light,Medium,False,40.0,44.0,48.0,530.0
+Operations,United States,Light,Medium,False,48.0,71.0,107.0,850.0
+Sales,United Kingdom,Light,Medium,False,40.0,56.0,81.0,670.0
+Other,United Kingdom,Light,Medium,False,41.0,56.0,84.0,670.0
+Data & Analytics,United States,Light,Medium,False,66.0,96.0,147.0,1150.0
+Healthcare,Asia-Pacific,Light,Medium,False,40.0,52.0,81.0,630.0
+Healthcare,Canada,Light,Medium,False,52.0,71.0,116.0,850.0
+Finance,United Kingdom,Light,Medium,False,48.0,75.0,122.0,900.0
+Legal,Canada,Light,Medium,False,61.0,90.0,128.0,1080.0
+Marketing,United States,Light,Medium,False,49.0,73.0,112.0,870.0
+Legal,Asia-Pacific,Light,Medium,False,43.0,64.0,108.0,760.0
+Marketing,Canada,Light,Medium,False,45.0,64.0,100.0,770.0
+Legal,United States,Light,Medium,False,65.0,100.0,156.0,1200.0
+Other,Latin America,Light,Medium,False,40.0,44.0,58.0,530.0
+Marketing,Asia-Pacific,Light,Medium,False,40.0,44.0,67.0,530.0
+Sales,Latin America,Light,Medium,False,40.0,44.0,54.0,530.0
+Software Engineering,Latin America,Light,Medium,False,40.0,44.0,58.0,530.0
+Legal,Europe,Light,Medium,False,56.0,83.0,127.0,1000.0
+Education,United Kingdom,Light,Medium,False,40.0,54.0,84.0,650.0
+Operations,Latin America,Light,Medium,False,40.0,44.0,55.0,530.0
+Education,Europe,Light,Medium,False,40.0,49.0,78.0,590.0
+Data & Analytics,Latin America,Light,Medium,False,40.0,44.0,60.0,530.0
+Finance,Asia-Pacific,Light,Medium,False,40.0,51.0,80.0,610.0
+Finance,Canada,Light,Medium,False,51.0,77.0,121.0,930.0
+Legal,United Kingdom,Light,Medium,False,62.0,100.0,145.0,1210.0
+Software Engineering,United States,Light,Medium,False,63.0,94.0,143.0,1130.0
+Sales,Europe,Light,Medium,False,40.0,54.0,84.0,640.0
+Other,Europe,Light,Medium,False,40.0,54.0,77.0,650.0
+Finance,Europe,Light,Medium,False,50.0,75.0,114.0,900.0
+Education,Canada,Light,Medium,False,40.0,54.0,82.0,650.0
+Education,Asia-Pacific,Light,Medium,False,40.0,44.0,54.0,530.0
+Finance,United States,Light,Medium,False,62.0,93.0,143.0,1110.0
+Marketing,United Kingdom,Light,Medium,False,43.0,63.0,97.0,760.0
+Healthcare,Latin America,Light,Medium,False,40.0,44.0,66.0,530.0
+Education,United States,Light,Medium,False,44.0,64.0,99.0,770.0
+Other,United States,Light,Medium,False,44.0,63.0,99.0,760.0
+Operations,United Kingdom,Light,Medium,False,41.0,58.0,91.0,700.0
+Software Engineering,Europe,Light,Medium,False,51.0,77.0,118.0,930.0
+Data & Analytics,United Kingdom,Light,Medium,False,56.0,85.0,126.0,1020.0
+Sales,United States,Light,Medium,False,45.0,67.0,104.0,800.0
+Legal,Latin America,Light,Medium,False,40.0,44.0,59.0,530.0
+Software Engineering,Asia-Pacific,Regular,Medium,False,49.0,68.0,106.0,820.0
+Software Engineering,Canada,Regular,Medium,False,63.0,95.0,144.0,1140.0
+Marketing,Europe,Regular,Medium,False,50.0,72.0,116.0,860.0
+Healthcare,United States,Regular,Medium,False,75.0,111.0,172.0,1330.0
+Finance,Latin America,Regular,Medium,False,40.0,51.0,74.0,610.0
+Data & Analytics,Canada,Regular,Medium,False,69.0,99.0,150.0,1190.0
+Operations,Asia-Pacific,Regular,Medium,False,42.0,58.0,94.0,690.0
+Operations,Canada,Regular,Medium,False,53.0,71.0,112.0,860.0
+Data & Analytics,Asia-Pacific,Regular,Medium,False,51.0,73.0,109.0,880.0
+Healthcare,Europe,Regular,Medium,False,58.0,90.0,134.0,1070.0
+Other,Asia-Pacific,Regular,Medium,False,41.0,54.0,75.0,650.0
+Other,Canada,Regular,Medium,False,46.0,64.0,104.0,770.0
+Sales,Asia-Pacific,Regular,Medium,False,42.0,57.0,89.0,680.0
+Healthcare,United Kingdom,Regular,Medium,False,65.0,100.0,155.0,1200.0
+Sales,Canada,Regular,Medium,False,53.0,73.0,110.0,870.0
+Marketing,Latin America,Regular,Medium,False,40.0,52.0,72.0,620.0
+Data & Analytics,Europe,Regular,Medium,False,65.0,95.0,142.0,1140.0
+Operations,Europe,Regular,Medium,False,50.0,72.0,107.0,860.0
+Software Engineering,United Kingdom,Regular,Medium,False,72.0,107.0,166.0,1290.0
+Education,Latin America,Regular,Medium,False,40.0,45.0,61.0,540.0
+Operations,United States,Regular,Medium,False,60.0,88.0,134.0,1060.0
+Sales,United Kingdom,Regular,Medium,False,50.0,70.0,101.0,840.0
+Other,United Kingdom,Regular,Medium,False,52.0,70.0,105.0,830.0
+Data & Analytics,United States,Regular,Medium,False,82.0,120.0,184.0,1440.0
+Healthcare,Asia-Pacific,Regular,Medium,False,46.0,65.0,101.0,790.0
+Healthcare,Canada,Regular,Medium,False,65.0,88.0,146.0,1060.0
+Finance,United Kingdom,Regular,Medium,False,60.0,94.0,152.0,1130.0
+Legal,Canada,Regular,Medium,False,76.0,112.0,159.0,1340.0
+Marketing,United States,Regular,Medium,False,61.0,91.0,140.0,1090.0
+Legal,Asia-Pacific,Regular,Medium,False,54.0,80.0,135.0,960.0
+Marketing,Canada,Regular,Medium,False,56.0,80.0,125.0,970.0
+Legal,United States,Regular,Medium,False,82.0,125.0,195.0,1500.0
+Other,Latin America,Regular,Medium,False,40.0,47.0,72.0,560.0
+Marketing,Asia-Pacific,Regular,Medium,False,43.0,55.0,84.0,660.0
+Sales,Latin America,Regular,Medium,False,40.0,49.0,67.0,580.0
+Software Engineering,Latin America,Regular,Medium,False,41.0,54.0,73.0,650.0
+Legal,Europe,Regular,Medium,False,70.0,104.0,159.0,1250.0
+Education,United Kingdom,Regular,Medium,False,48.0,68.0,106.0,820.0
+Operations,Latin America,Regular,Medium,False,40.0,49.0,68.0,580.0
+Education,Europe,Regular,Medium,False,45.0,61.0,98.0,740.0
+Data & Analytics,Latin America,Regular,Medium,False,40.0,53.0,75.0,640.0
+Finance,Asia-Pacific,Regular,Medium,False,46.0,64.0,100.0,770.0
+Finance,Canada,Regular,Medium,False,63.0,97.0,151.0,1160.0
+Legal,United Kingdom,Regular,Medium,False,78.0,126.0,182.0,1510.0
+Software Engineering,United States,Regular,Medium,False,79.0,118.0,179.0,1410.0
+Sales,Europe,Regular,Medium,False,47.0,67.0,105.0,800.0
+Other,Europe,Regular,Medium,False,47.0,67.0,96.0,810.0
+Finance,Europe,Regular,Medium,False,62.0,94.0,142.0,1130.0
+Education,Canada,Regular,Medium,False,47.0,68.0,103.0,820.0
+Education,Asia-Pacific,Regular,Medium,False,40.0,49.0,67.0,590.0
+Finance,United States,Regular,Medium,False,78.0,116.0,179.0,1390.0
+Marketing,United Kingdom,Regular,Medium,False,54.0,79.0,122.0,950.0
+Healthcare,Latin America,Regular,Medium,False,40.0,55.0,82.0,660.0
+Education,United States,Regular,Medium,False,54.0,81.0,123.0,970.0
+Other,United States,Regular,Medium,False,54.0,79.0,124.0,950.0
+Operations,United Kingdom,Regular,Medium,False,51.0,72.0,114.0,870.0
+Software Engineering,Europe,Regular,Medium,False,64.0,97.0,148.0,1160.0
+Data & Analytics,United Kingdom,Regular,Medium,False,70.0,106.0,157.0,1280.0
+Sales,United States,Regular,Medium,False,57.0,84.0,131.0,1010.0
+Legal,Latin America,Regular,Medium,False,41.0,55.0,74.0,660.0
+Software Engineering,Asia-Pacific,Frequent,Medium,False,69.0,95.0,148.0,1140.0
+Software Engineering,Canada,Frequent,Medium,False,89.0,133.0,201.0,1600.0
+Marketing,Europe,Frequent,Medium,False,70.0,101.0,163.0,1210.0
+Healthcare,United States,Frequent,Medium,False,105.0,156.0,241.0,1870.0
+Finance,Latin America,Frequent,Medium,False,56.0,71.0,104.0,860.0
+Data & Analytics,Canada,Frequent,Medium,False,97.0,139.0,210.0,1660.0
+Operations,Asia-Pacific,Frequent,Medium,False,59.0,81.0,132.0,970.0
+Operations,Canada,Frequent,Medium,False,74.0,100.0,156.0,1200.0
+Data & Analytics,Asia-Pacific,Frequent,Medium,False,71.0,102.0,152.0,1230.0
+Healthcare,Europe,Frequent,Medium,False,82.0,125.0,188.0,1500.0
+Other,Asia-Pacific,Frequent,Medium,False,58.0,75.0,105.0,910.0
+Other,Canada,Frequent,Medium,False,64.0,90.0,146.0,1070.0
+Sales,Asia-Pacific,Frequent,Medium,False,58.0,79.0,124.0,950.0
+Healthcare,United Kingdom,Frequent,Medium,False,91.0,140.0,216.0,1680.0
+Sales,Canada,Frequent,Medium,False,74.0,102.0,154.0,1220.0
+Marketing,Latin America,Frequent,Medium,False,55.0,73.0,101.0,870.0
+Data & Analytics,Europe,Frequent,Medium,False,91.0,133.0,199.0,1600.0
+Operations,Europe,Frequent,Medium,False,70.0,100.0,150.0,1210.0
+Software Engineering,United Kingdom,Frequent,Medium,False,101.0,150.0,233.0,1800.0
+Education,Latin America,Frequent,Medium,False,52.0,63.0,85.0,750.0
+Operations,United States,Frequent,Medium,False,84.0,124.0,187.0,1480.0
+Sales,United Kingdom,Frequent,Medium,False,69.0,98.0,141.0,1180.0
+Other,United Kingdom,Frequent,Medium,False,72.0,97.0,147.0,1170.0
+Data & Analytics,United States,Frequent,Medium,False,115.0,168.0,258.0,2020.0
+Healthcare,Asia-Pacific,Frequent,Medium,False,65.0,92.0,141.0,1100.0
+Healthcare,Canada,Frequent,Medium,False,91.0,124.0,204.0,1490.0
+Finance,United Kingdom,Frequent,Medium,False,83.0,132.0,213.0,1580.0
+Legal,Canada,Frequent,Medium,False,106.0,157.0,223.0,1880.0
+Marketing,United States,Frequent,Medium,False,85.0,127.0,197.0,1520.0
+Legal,Asia-Pacific,Frequent,Medium,False,75.0,112.0,189.0,1340.0
+Marketing,Canada,Frequent,Medium,False,78.0,113.0,176.0,1350.0
+Legal,United States,Frequent,Medium,False,114.0,175.0,273.0,2100.0
+Other,Latin America,Frequent,Medium,False,53.0,66.0,101.0,790.0
+Marketing,Asia-Pacific,Frequent,Medium,False,60.0,77.0,118.0,930.0
+Sales,Latin America,Frequent,Medium,False,55.0,68.0,94.0,820.0
+Software Engineering,Latin America,Frequent,Medium,False,58.0,75.0,102.0,900.0
+Legal,Europe,Frequent,Medium,False,97.0,146.0,223.0,1750.0
+Education,United Kingdom,Frequent,Medium,False,67.0,95.0,148.0,1140.0
+Operations,Latin America,Frequent,Medium,False,55.0,68.0,96.0,820.0
+Education,Europe,Frequent,Medium,False,62.0,86.0,137.0,1030.0
+Data & Analytics,Latin America,Frequent,Medium,False,55.0,75.0,105.0,900.0
+Finance,Asia-Pacific,Frequent,Medium,False,64.0,89.0,140.0,1070.0
+Finance,Canada,Frequent,Medium,False,89.0,136.0,211.0,1630.0
+Legal,United Kingdom,Frequent,Medium,False,109.0,176.0,254.0,2110.0
+Software Engineering,United States,Frequent,Medium,False,110.0,165.0,250.0,1980.0
+Sales,Europe,Frequent,Medium,False,66.0,94.0,147.0,1130.0
+Other,Europe,Frequent,Medium,False,66.0,94.0,134.0,1130.0
+Finance,Europe,Frequent,Medium,False,87.0,131.0,199.0,1580.0
+Education,Canada,Frequent,Medium,False,66.0,95.0,144.0,1140.0
+Education,Asia-Pacific,Frequent,Medium,False,54.0,69.0,94.0,830.0
+Finance,United States,Frequent,Medium,False,109.0,162.0,251.0,1950.0
+Marketing,United Kingdom,Frequent,Medium,False,75.0,111.0,170.0,1330.0
+Healthcare,Latin America,Frequent,Medium,False,56.0,77.0,115.0,920.0
+Education,United States,Frequent,Medium,False,76.0,113.0,173.0,1350.0
+Other,United States,Frequent,Medium,False,76.0,111.0,174.0,1330.0
+Operations,United Kingdom,Frequent,Medium,False,71.0,101.0,159.0,1220.0
+Software Engineering,Europe,Frequent,Medium,False,89.0,135.0,207.0,1620.0
+Data & Analytics,United Kingdom,Frequent,Medium,False,99.0,149.0,220.0,1790.0
+Sales,United States,Frequent,Medium,False,79.0,117.0,183.0,1410.0
+Legal,Latin America,Frequent,Medium,False,57.0,77.0,103.0,930.0
+Software Engineering,Asia-Pacific,Light,Long,False,51.0,71.0,110.0,850.0
+Software Engineering,Canada,Light,Long,False,66.0,99.0,150.0,1190.0
+Marketing,Europe,Light,Long,False,52.0,75.0,121.0,900.0
+Healthcare,United States,Light,Long,False,78.0,116.0,179.0,1390.0
+Finance,Latin America,Light,Long,False,42.0,53.0,77.0,640.0
+Data & Analytics,Canada,Light,Long,False,72.0,103.0,156.0,1240.0
+Operations,Asia-Pacific,Light,Long,False,44.0,60.0,98.0,720.0
+Operations,Canada,Light,Long,False,55.0,74.0,116.0,890.0
+Data & Analytics,Asia-Pacific,Light,Long,False,53.0,76.0,113.0,910.0
+Healthcare,Europe,Light,Long,False,61.0,93.0,139.0,1120.0
+Other,Asia-Pacific,Light,Long,False,43.0,56.0,78.0,670.0
+Other,Canada,Light,Long,False,48.0,66.0,108.0,800.0
+Sales,Asia-Pacific,Light,Long,False,43.0,59.0,92.0,710.0
+Healthcare,United Kingdom,Light,Long,False,68.0,104.0,161.0,1250.0
+Sales,Canada,Light,Long,False,55.0,76.0,115.0,910.0
+Marketing,Latin America,Light,Long,False,41.0,54.0,75.0,650.0
+Data & Analytics,Europe,Light,Long,False,67.0,99.0,148.0,1190.0
+Operations,Europe,Light,Long,False,52.0,75.0,112.0,900.0
+Software Engineering,United Kingdom,Light,Long,False,75.0,111.0,173.0,1340.0
+Education,Latin America,Light,Long,False,40.0,47.0,63.0,560.0
+Operations,United States,Light,Long,False,62.0,92.0,139.0,1100.0
+Sales,United Kingdom,Light,Long,False,52.0,73.0,105.0,880.0
+Other,United Kingdom,Light,Long,False,54.0,72.0,109.0,870.0
+Data & Analytics,United States,Light,Long,False,85.0,125.0,191.0,1500.0
+Healthcare,Asia-Pacific,Light,Long,False,48.0,68.0,105.0,820.0
+Healthcare,Canada,Light,Long,False,67.0,92.0,151.0,1100.0
+Finance,United Kingdom,Light,Long,False,62.0,98.0,158.0,1170.0
+Legal,Canada,Light,Long,False,79.0,116.0,166.0,1400.0
+Marketing,United States,Light,Long,False,63.0,94.0,146.0,1130.0
+Legal,Asia-Pacific,Light,Long,False,56.0,83.0,141.0,990.0
+Marketing,Canada,Light,Long,False,58.0,84.0,130.0,1000.0
+Legal,United States,Light,Long,False,85.0,130.0,203.0,1560.0
+Other,Latin America,Light,Long,False,40.0,49.0,75.0,590.0
+Marketing,Asia-Pacific,Light,Long,False,44.0,57.0,88.0,690.0
+Sales,Latin America,Light,Long,False,41.0,51.0,70.0,610.0
+Software Engineering,Latin America,Light,Long,False,43.0,56.0,76.0,670.0
+Legal,Europe,Light,Long,False,72.0,108.0,166.0,1300.0
+Education,United Kingdom,Light,Long,False,50.0,71.0,110.0,850.0
+Operations,Latin America,Light,Long,False,41.0,50.0,71.0,610.0
+Education,Europe,Light,Long,False,46.0,64.0,102.0,770.0
+Data & Analytics,Latin America,Light,Long,False,41.0,56.0,78.0,670.0
+Finance,Asia-Pacific,Light,Long,False,48.0,66.0,104.0,800.0
+Finance,Canada,Light,Long,False,66.0,101.0,157.0,1210.0
+Legal,United Kingdom,Light,Long,False,81.0,131.0,189.0,1570.0
+Software Engineering,United States,Light,Long,False,82.0,122.0,186.0,1470.0
+Sales,Europe,Light,Long,False,49.0,70.0,109.0,840.0
+Other,Europe,Light,Long,False,49.0,70.0,100.0,840.0
+Finance,Europe,Light,Long,False,64.0,98.0,148.0,1170.0
+Education,Canada,Light,Long,False,49.0,71.0,107.0,850.0
+Education,Asia-Pacific,Light,Long,False,40.0,51.0,70.0,620.0
+Finance,United States,Light,Long,False,81.0,121.0,186.0,1450.0
+Marketing,United Kingdom,Light,Long,False,56.0,82.0,126.0,990.0
+Healthcare,Latin America,Light,Long,False,42.0,57.0,85.0,690.0
+Education,United States,Light,Long,False,57.0,84.0,128.0,1010.0
+Other,United States,Light,Long,False,57.0,82.0,129.0,990.0
+Operations,United Kingdom,Light,Long,False,53.0,75.0,118.0,900.0
+Software Engineering,Europe,Light,Long,False,66.0,101.0,154.0,1210.0
+Data & Analytics,United Kingdom,Light,Long,False,73.0,111.0,163.0,1330.0
+Sales,United States,Light,Long,False,59.0,87.0,136.0,1050.0
+Legal,Latin America,Light,Long,False,42.0,57.0,77.0,690.0
+Software Engineering,Asia-Pacific,Regular,Long,False,64.0,88.0,138.0,1060.0
+Software Engineering,Canada,Regular,Long,False,82.0,124.0,187.0,1480.0
+Marketing,Europe,Regular,Long,False,65.0,93.0,151.0,1120.0
+Healthcare,United States,Regular,Long,False,97.0,144.0,224.0,1730.0
+Finance,Latin America,Regular,Long,False,52.0,66.0,96.0,790.0
+Data & Analytics,Canada,Regular,Long,False,90.0,129.0,195.0,1550.0
+Operations,Asia-Pacific,Regular,Long,False,55.0,75.0,122.0,900.0
+Operations,Canada,Regular,Long,False,69.0,93.0,145.0,1110.0
+Data & Analytics,Asia-Pacific,Regular,Long,False,66.0,95.0,141.0,1140.0
+Healthcare,Europe,Regular,Long,False,76.0,116.0,174.0,1400.0
+Other,Asia-Pacific,Regular,Long,False,53.0,70.0,98.0,840.0
+Other,Canada,Regular,Long,False,60.0,83.0,136.0,1000.0
+Sales,Asia-Pacific,Regular,Long,False,54.0,74.0,115.0,880.0
+Healthcare,United Kingdom,Regular,Long,False,85.0,130.0,201.0,1560.0
+Sales,Canada,Regular,Long,False,69.0,95.0,143.0,1140.0
+Marketing,Latin America,Regular,Long,False,51.0,68.0,94.0,810.0
+Data & Analytics,Europe,Regular,Long,False,84.0,123.0,185.0,1480.0
+Operations,Europe,Regular,Long,False,65.0,93.0,140.0,1120.0
+Software Engineering,United Kingdom,Regular,Long,False,94.0,139.0,216.0,1670.0
+Education,Latin America,Regular,Long,False,48.0,58.0,79.0,700.0
+Operations,United States,Regular,Long,False,78.0,115.0,174.0,1380.0
+Sales,United Kingdom,Regular,Long,False,64.0,91.0,131.0,1100.0
+Other,United Kingdom,Regular,Long,False,67.0,90.0,136.0,1080.0
+Data & Analytics,United States,Regular,Long,False,107.0,156.0,239.0,1880.0
+Healthcare,Asia-Pacific,Regular,Long,False,60.0,85.0,131.0,1020.0
+Healthcare,Canada,Regular,Long,False,84.0,115.0,189.0,1380.0
+Finance,United Kingdom,Regular,Long,False,78.0,122.0,198.0,1470.0
+Legal,Canada,Regular,Long,False,99.0,146.0,207.0,1750.0
+Marketing,United States,Regular,Long,False,79.0,118.0,182.0,1420.0
+Legal,Asia-Pacific,Regular,Long,False,70.0,104.0,176.0,1240.0
+Marketing,Canada,Regular,Long,False,73.0,105.0,163.0,1250.0
+Legal,United States,Regular,Long,False,106.0,162.0,254.0,1950.0
+Other,Latin America,Regular,Long,False,49.0,61.0,94.0,730.0
+Marketing,Asia-Pacific,Regular,Long,False,56.0,72.0,109.0,860.0
+Sales,Latin America,Regular,Long,False,51.0,63.0,87.0,760.0
+Software Engineering,Latin America,Regular,Long,False,54.0,70.0,95.0,840.0
+Legal,Europe,Regular,Long,False,90.0,135.0,207.0,1620.0
+Education,United Kingdom,Regular,Long,False,63.0,88.0,137.0,1060.0
+Operations,Latin America,Regular,Long,False,51.0,63.0,89.0,760.0
+Education,Europe,Regular,Long,False,58.0,80.0,127.0,960.0
+Data & Analytics,Latin America,Regular,Long,False,51.0,69.0,98.0,830.0
+Finance,Asia-Pacific,Regular,Long,False,60.0,83.0,130.0,1000.0
+Finance,Canada,Regular,Long,False,82.0,126.0,196.0,1510.0
+Legal,United Kingdom,Regular,Long,False,101.0,163.0,236.0,1960.0
+Software Engineering,United States,Regular,Long,False,102.0,153.0,233.0,1840.0
+Sales,Europe,Regular,Long,False,62.0,87.0,137.0,1050.0
+Other,Europe,Regular,Long,False,61.0,88.0,125.0,1050.0
+Finance,Europe,Regular,Long,False,80.0,122.0,185.0,1470.0
+Education,Canada,Regular,Long,False,61.0,88.0,133.0,1060.0
+Education,Asia-Pacific,Regular,Long,False,50.0,64.0,88.0,770.0
+Finance,United States,Regular,Long,False,101.0,151.0,233.0,1810.0
+Marketing,United Kingdom,Regular,Long,False,70.0,103.0,158.0,1240.0
+Healthcare,Latin America,Regular,Long,False,52.0,72.0,107.0,860.0
+Education,United States,Regular,Long,False,71.0,105.0,160.0,1260.0
+Other,United States,Regular,Long,False,71.0,103.0,161.0,1240.0
+Operations,United Kingdom,Regular,Long,False,66.0,94.0,148.0,1130.0
+Software Engineering,Europe,Regular,Long,False,83.0,126.0,193.0,1510.0
+Data & Analytics,United Kingdom,Regular,Long,False,92.0,138.0,204.0,1660.0
+Sales,United States,Regular,Long,False,74.0,109.0,170.0,1310.0
+Legal,Latin America,Regular,Long,False,53.0,72.0,96.0,860.0
+Software Engineering,Asia-Pacific,Frequent,Long,False,90.0,124.0,193.0,1480.0
+Software Engineering,Canada,Frequent,Long,False,115.0,173.0,262.0,2080.0
+Marketing,Europe,Frequent,Long,False,92.0,131.0,211.0,1570.0
+Healthcare,United States,Frequent,Long,False,136.0,202.0,313.0,2430.0
+Finance,Latin America,Frequent,Long,False,73.0,93.0,135.0,1110.0
+Data & Analytics,Canada,Frequent,Long,False,126.0,180.0,274.0,2160.0
+Operations,Asia-Pacific,Frequent,Long,False,77.0,105.0,171.0,1260.0
+Operations,Canada,Frequent,Long,False,96.0,130.0,203.0,1560.0
+Data & Analytics,Asia-Pacific,Frequent,Long,False,93.0,133.0,198.0,1600.0
+Healthcare,Europe,Frequent,Long,False,106.0,163.0,244.0,1960.0
+Other,Asia-Pacific,Frequent,Long,False,75.0,98.0,137.0,1180.0
+Other,Canada,Frequent,Long,False,84.0,116.0,190.0,1400.0
+Sales,Asia-Pacific,Frequent,Long,False,76.0,103.0,162.0,1240.0
+Healthcare,United Kingdom,Frequent,Long,False,119.0,182.0,281.0,2180.0
+Sales,Canada,Frequent,Long,False,96.0,133.0,201.0,1590.0
+Marketing,Latin America,Frequent,Long,False,71.0,95.0,132.0,1130.0
+Data & Analytics,Europe,Frequent,Long,False,118.0,173.0,259.0,2070.0
+Operations,Europe,Frequent,Long,False,91.0,131.0,195.0,1570.0
+Software Engineering,United Kingdom,Frequent,Long,False,132.0,195.0,303.0,2340.0
+Education,Latin America,Frequent,Long,False,68.0,82.0,110.0,980.0
+Operations,United States,Frequent,Long,False,109.0,161.0,243.0,1930.0
+Sales,United Kingdom,Frequent,Long,False,90.0,128.0,183.0,1540.0
+Other,United Kingdom,Frequent,Long,False,94.0,127.0,191.0,1520.0
+Data & Analytics,United States,Frequent,Long,False,150.0,219.0,335.0,2630.0
+Healthcare,Asia-Pacific,Frequent,Long,False,84.0,119.0,183.0,1430.0
+Healthcare,Canada,Frequent,Long,False,118.0,161.0,265.0,1930.0
+Finance,United Kingdom,Frequent,Long,False,109.0,171.0,277.0,2050.0
+Legal,Canada,Frequent,Long,False,138.0,204.0,290.0,2450.0
+Marketing,United States,Frequent,Long,False,111.0,165.0,255.0,1980.0
+Legal,Asia-Pacific,Frequent,Long,False,98.0,145.0,246.0,1740.0
+Marketing,Canada,Frequent,Long,False,102.0,146.0,228.0,1760.0
+Legal,United States,Frequent,Long,False,149.0,227.0,355.0,2730.0
+Other,Latin America,Frequent,Long,False,69.0,85.0,131.0,1020.0
+Marketing,Asia-Pacific,Frequent,Long,False,78.0,100.0,153.0,1200.0
+Sales,Latin America,Frequent,Long,False,72.0,88.0,122.0,1060.0
+Software Engineering,Latin America,Frequent,Long,False,75.0,98.0,133.0,1180.0
+Legal,Europe,Frequent,Long,False,127.0,189.0,290.0,2270.0
+Education,United Kingdom,Frequent,Long,False,88.0,124.0,192.0,1490.0
+Operations,Latin America,Frequent,Long,False,72.0,88.0,124.0,1060.0
+Education,Europe,Frequent,Long,False,81.0,112.0,178.0,1340.0
+Data & Analytics,Latin America,Frequent,Long,False,72.0,97.0,137.0,1170.0
+Finance,Asia-Pacific,Frequent,Long,False,83.0,116.0,182.0,1390.0
+Finance,Canada,Frequent,Long,False,115.0,176.0,275.0,2120.0
+Legal,United Kingdom,Frequent,Long,False,141.0,229.0,330.0,2740.0
+Software Engineering,United States,Frequent,Long,False,143.0,214.0,326.0,2570.0
+Sales,Europe,Frequent,Long,False,86.0,122.0,191.0,1460.0
+Other,Europe,Frequent,Long,False,85.0,123.0,174.0,1470.0
+Finance,Europe,Frequent,Long,False,113.0,171.0,258.0,2050.0
+Education,Canada,Frequent,Long,False,86.0,124.0,187.0,1480.0
+Education,Asia-Pacific,Frequent,Long,False,70.0,90.0,123.0,1080.0
+Finance,United States,Frequent,Long,False,142.0,211.0,326.0,2530.0
+Marketing,United Kingdom,Frequent,Long,False,97.0,144.0,221.0,1730.0
+Healthcare,Latin America,Frequent,Long,False,73.0,100.0,149.0,1200.0
+Education,United States,Frequent,Long,False,99.0,147.0,225.0,1760.0
+Other,United States,Frequent,Long,False,99.0,144.0,226.0,1730.0
+Operations,United Kingdom,Frequent,Long,False,93.0,132.0,207.0,1580.0
+Software Engineering,Europe,Frequent,Long,False,116.0,176.0,270.0,2110.0
+Data & Analytics,United Kingdom,Frequent,Long,False,128.0,194.0,286.0,2330.0
+Sales,United States,Frequent,Long,False,103.0,152.0,238.0,1830.0
+Legal,Latin America,Frequent,Long,False,74.0,100.0,134.0,1210.0

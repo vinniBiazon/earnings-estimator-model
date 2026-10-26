@@ -1,0 +1,11 @@
+profession,panelists,median_usd_month,mean_usd_month,median_visits_week,median_study_minutes_week
+Legal,2345,109.0,128.0,0.4,4.0
+Data & Analytics,3175,101.0,122.0,0.4,4.0
+Software Engineering,6413,100.0,120.0,0.4,4.0
+Finance,4842,97.0,118.0,0.4,4.0
+Healthcare,4049,95.0,117.0,0.4,4.0
+Marketing,3762,79.0,100.0,0.4,4.0
+Operations,4062,76.0,96.0,0.4,4.0
+Sales,3651,74.0,93.0,0.4,4.0
+Other,2890,70.0,90.0,0.5,5.0
+Education,2998,69.0,90.0,0.5,5.0

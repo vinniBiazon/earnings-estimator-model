@@ -1,0 +1,6 @@
+check_id,check_name,naive_value,model_value,note
+1,Reward rows after adding profession,776663.0,525044.0,Joining the full role history repeats each reward once per past profession
+2,Eligible panelists,31372.0,46571.0,"Filtering on account_flag = 'ok' drops every legacy account, where the flag is NULL"
+3,"P75 monthly earnings, all eligible (USD)",163.26357142857142,132.48016666666666,"Without the lookback window, an older and more generous reward scheme inflates the bands"
+4,Cells below the minimum size (%),50.0,0.0,Splitting cells by visit cadence leaves most of them too small; visits already work as a lever
+5,Mean / median monthly earnings,1.4506677141868858,1.2498511969873731,"Before trimming, a few extreme months pull the mean away from the median"

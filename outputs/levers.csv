@@ -1,0 +1,7 @@
+lever,level,panelists,avg_usd_per_month,observed_ratio,applied_factor
+visits,Light,11042,71.87,0.68,0.8
+visits,Regular,20819,105.73,1.0,1.0
+visits,Frequent,6326,179.44,1.697,1.4
+study time,Short,12510,75.61,0.779,0.9
+study time,Medium,12916,97.1,1.0,1.0
+study time,Long,12761,151.23,1.558,1.3
